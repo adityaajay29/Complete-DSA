@@ -1,0 +1,4 @@
+three aproaches : 
+1. induction based hypothesis
+2. recursion tree
+3. choice diagram

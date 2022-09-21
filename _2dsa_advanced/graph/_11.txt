@@ -1,0 +1,11 @@
+concept of dfs tree
+
+there are 2 types of edges
+forward edge and backedge
+when a node is traversed from its parent, then that ede is a forward edge
+if that node traverses back to its any ancestor, then it is a backedge
+since that node is connected to both parent and ancestor, the backedge can nevr be the bridge
+because in it will still have connection to its parent
+but if backedge is not present, then that forward edge can be the bridge
+
+we use 2 arrays to find store the intime of all the nodes and the nearest ancestor of all nodes

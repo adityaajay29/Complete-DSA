@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "new": "cpp",
+        "__locale": "cpp",
+        "ios": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "unordered_map": "cpp",
+        "__tree": "cpp",
+        "map": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "algorithm": "cpp"
+    }
+}
